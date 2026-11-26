@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:32:19.458Z",
+  "generated_at": "2026-11-26T18:44:09.507Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -193,6 +193,19 @@
       "path": "problems/0121-vector-element-wise-sum",
       "first_solved_at": "2026-11-25T18:31:21.236Z",
       "last_pushed_at": "2026-11-25T18:32:18.667Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-11-26T18:44:08.742Z",
+      "last_pushed_at": "2026-11-26T18:44:08.742Z",
       "language": "python",
       "lines": 5
     }
